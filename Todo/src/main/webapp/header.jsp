@@ -13,10 +13,7 @@
 				<a class="dropdown-item" href="ToDoUserInfoServlet">ユーザー</a> <a
 					class="dropdown-item" href="ToDoLoginServlet">ログアウト</a>
 			</div>
-
 		</div>
-
-
 	</div>
 </nav>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
